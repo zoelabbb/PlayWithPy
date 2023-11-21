@@ -1,0 +1,58 @@
+[
+    {
+        "Celcius": 12.0,
+        "Hasil convert": 53.6
+    },
+    {
+        "Celcius": 34.0,
+        "Hasil convert": 93.2
+    },
+    {
+        "Celcius": 12.0,
+        "Hasil convert": 53.6
+    },
+    {
+        "Convert suhu celcius to fahrenheitCelcius": 45.0,
+        "Hasil convert": 113.0
+    },
+    {
+        "Convert suhu celcius to fahrenheit": null,
+        "Celcius": 67.0,
+        "Hasil convert": 152.6
+    },
+    {
+        "Menu": "Convert Suhu Celcius to Fahrenheit",
+        "Celcius": 56.0,
+        "Hasil convert": 132.8
+    },
+    {
+        "Menu": "Convert Suhu Celcius to Fahrenheit",
+        "Celcius": 12.0,
+        "Hasil convert": 53.6
+    },
+    {
+        "Menu": "Convert Suhu Celcius to Fahrenheit",
+        "Celcius": 1.0,
+        "Hasil convert": 33.8
+    },
+    {
+        "Menu": "Convert Suhu Celcius to Fahrenheit",
+        "Celcius": 21.0,
+        "Hasil convert": 69.8,
+        "None": {
+            "Author": "by Alif Ryuu BR",
+            "GitHub": "https://github.com/zoelabbb",
+            "Note": "jangan lupa di follow ya"
+        }
+    },
+    {
+        "Menu": "Convert Suhu Celcius to Fahrenheit",
+        "Celcius": 32.0,
+        "Hasil convert": 89.6,
+        "Msg": {
+            "Author": "Alif Ryuu BR",
+            "GitHub": "https://github.com/zoelabbb",
+            "Note": "jangan lupa di follow ya"
+        }
+    }
+]
