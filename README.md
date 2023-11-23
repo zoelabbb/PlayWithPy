@@ -6,6 +6,8 @@ Selamat datang di repository "PlayWithPy"! 🐍
 
 Repository ini dirancang sebagai sumber daya pembelajaran Python yang komprehensif untuk semua tingkatan, mulai dari pemula hingga tingkat lanjutan.
 
+Baca wiki [disini](https://github.com/zoelabbb/PlayWithPy/wiki)
+
 ## Apa yang Tersedia:
 
 1. **Tutorial Step-by-Step:**
