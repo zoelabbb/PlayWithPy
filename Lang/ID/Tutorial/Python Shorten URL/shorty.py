@@ -35,7 +35,7 @@ def main():
 
     # Cek file .env
     if not api_key or not domain or not original_url:
-        print("API key or domain not found in .env file !!")
+        print("Your API_KEY or DOMAIN not found in .env file !!")
         return
     
     url_shortener = ShortenURL(api_key, domain)
